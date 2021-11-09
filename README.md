@@ -1,13 +1,13 @@
 ### Hello/Bonjour/Ciao 🙌🏽
 
-- 🌴🌞 Currently living in San Diego, CA (Denver, CO is home - also grew up in Italy, Germany, France & England 🌍)
 - 🏀🤝 Former athlete (basketball) with background in marketing & public relations/media relations
+   - ⚽️🏈🏃🏽‍♂️ Also played football & football (😉) & ran track before going all-in as a hooper on the basketball court
 ---
 - **Why did I transition into software engineering?...**
    - *I've always had curiosity for how software can positively transform & I want to contribute to impactful change*
    - *Playing team sports taught me the value of collaboration and working towards goals bigger than just myself*
 ---
-- 💻📚 Currently exploring expanded knowledge of JavaScript with Vue.js, AWS & containerization with Docker
+- 💻📚 Currently expanding knowledge of JavaScript with Vue.js while also diving into AWS & containerization with Docker
 - 😁💯 Check out my [resume & portfolio](https://terminal.turing.edu/profiles/1052)
 - 👋🏽❗️ Check out my profile & connect with me on [LinkedIn](https://www.linkedin.com/in/cameronchery/)
 
