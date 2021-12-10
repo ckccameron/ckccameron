@@ -1,11 +1,11 @@
 ### Hello/Bonjour/Ciao 🙌🏽
 
 - 🏀🤝 Former athlete (basketball) with background in marketing & public relations/media relations
-   - ⚽️🏈🏃🏽‍♂️ Also played football & football (😉) & ran track before going all-in as a hooper on the basketball court
+   - ⚽️🏈🏃🏽‍♂️ Also played football, futbol (😉) & ran track before exclusively pursuing hoops
 ---
 - **Why did I transition into software engineering?...**
    - *I've always had curiosity for how software can positively transform & I want to contribute to impactful projects*
-   - *Playing team sports taught me the value of collaboration and working towards goals in addition to my own ambitions*
+   - *Playing on teams throughout my life has taught me the value of collaboration while working to achieve goals in addition to my own ambitions*
 ---
 - 💻📚 Currently expanding knowledge of JavaScript with Vue.js while also diving into AWS & containerization with Docker
 - 😁💯 Check out my [resume & portfolio](https://terminal.turing.edu/profiles/1052)
