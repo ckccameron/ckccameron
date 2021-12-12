@@ -1,13 +1,16 @@
 ### Hello/Bonjour/Ciao 🙌🏽
 
 - 🏀🤝 Former athlete (basketball) with background in marketing & public relations/media relations
-   - ⚽️🏈🏃🏽‍♂️ Also played football, futbol (😉) & ran track before exclusively pursuing hoops
+   - ⚽️🏈🏃🏽‍♂️ Also played fútbol (😉), football, & ran track before exclusively pursuing hoops
 ---
 - **Why did I transition into software engineering?...**
    - *I've always had curiosity for how software can positively transform & I want to contribute to impactful projects*
-   - *Playing on teams throughout my life has taught me the value of collaboration while working to achieve goals in addition to my own ambitions*
+   - *Playing on teams throughout my life has taught me the value of collaboration while working to achieve big picture goals in addition to my own ambitions*
+   - *I enjoy the gradual ascension of learning, progressing & continuing to challenge myself*
+   
+   
 ---
-- 💻📚 Currently expanding knowledge of JavaScript with Vue.js while also diving into AWS & containerization with Docker
+- 💻📚 Currently expanding knowledge of JavaScript while also exploring containerization with Docker
 - 😁💯 Check out my [resume & portfolio](https://terminal.turing.edu/profiles/1052)
 - 👋🏽❗️ Check out my profile & connect with me on [LinkedIn](https://www.linkedin.com/in/cameronchery/)
 
