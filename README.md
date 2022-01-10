@@ -1,16 +1,15 @@
 ### Hello/Bonjour/Ciao 🙌🏽
 
 - 🏀🤝 Former athlete (basketball) with background in marketing & public relations/media relations
-   - ⚽️🏈🏃🏽‍♂️ Also played fútbol (😉), football, & ran track before exclusively pursuing hoops
+- ⚽️🏈🏃🏽‍♂️ Also played fútbol (😉), football, & ran track before exclusively pursuing hoops
 ---
-- **Why did I transition into software engineering?...**
-   - *I've always had curiosity for how software can positively transform & I want to contribute to impactful projects*
-   - *Playing on teams throughout my life has taught me the value of collaboration while working to achieve big picture goals in addition to my own ambitions*
-   - *I enjoy the gradual ascension of learning, progressing & continuing to challenge myself*
-   
-   
+- **Why did I transition into software development?...**
+   - *I have eager curiosity for how software can positively transform & I want to contribute to impactful projects.*
+   - *I enjoy the gradual ascension of learning, progressing & continuing to challenge myself in the work I do.*
+   - *Software development merges problem-solving with creativity in a way that opens up my angles of approach & the ways I find solutions.*
+   - *My passion for sports & music connects to software because intuitiveness & the inclination to ask "how" & "why" fuels the purpose I find in my work.*
 ---
-- 💻📚 Currently expanding knowledge of JavaScript while also exploring containerization with Docker
+- 💻📚 Currently learning about AWS while also exploring containerization with Docker
 - 😁💯 Check out my [resume & portfolio](https://terminal.turing.edu/profiles/1052)
 - 👋🏽❗️ Check out my profile & connect with me on [LinkedIn](https://www.linkedin.com/in/cameronchery/)
 
